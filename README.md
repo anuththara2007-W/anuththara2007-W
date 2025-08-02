@@ -14,7 +14,7 @@
 
 <!-- Enhanced Stats Row with Modern Badges -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=anuththara2007-w&label=Profile%20Views&color=blueviolet&style=for-the-badge&labelColor=black" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=anuththara2007-w&label=Profile%70Views&color=blueviolet&style=for-the-badge&labelColor=black" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/anuththara2007-w?label=Followers&style=for-the-badge&color=blue&labelColor=black" alt="GitHub followers">
   <img src="https://img.shields.io/badge/Experience-5%2B%20Years-success?style=for-the-badge&labelColor=black" />
 </div>
