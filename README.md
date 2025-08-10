@@ -1,7 +1,7 @@
 # <div align="center">Hi 👋, I'm Anuththara Wickramasekara</div>
 
 <div align="center">
-  <h2>🚀 Elite Full Stack Developer | 🛡️ Cybersecurity Expert | 🎨 UI/UX Design Maestro | 🤖 AI/ML Lea</h2>
+  <h2>🚀 Elite Full Stack Developer | 🛡️ Cybersecurity Expert | 🎨 UI/UX Design Maestro | 🤖 AI/ML Learner</h2>
 </div>
 
 <div align="center">
@@ -12,24 +12,23 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=anuththara2007-w&label=Profile%20Views&color=blueviolet&style=for-the-badge&labelColor=black" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/anuththara2007-w?label=Followers&style=for-the-badge&color=blue&labelColor=black" alt="followers">
-  <img src="https://img.shields.io/badge/Experience-5%2B%20Years-success?style=for-the-badge&labelColor=black" />
+  <img src="https://img.shields.io/badge/Experience-3%2B%20Years-success?style=for-the-badge&labelColor=black" />
 </div>
 
 <br>
 
 <!-- Performance Metrics Grid -->
 <div align="center">
-  <img src="https://img.shields.io/badge/Projects-100%2B-00D9FF?style=for-the-badge&labelColor=0a0a0a&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Projects-20%2B-00D9FF?style=for-the-badge&labelColor=0a0a0a&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Daily_Commits-25%2B-667eea?style=for-the-badge&labelColor=0a0a0a&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Stars_Earned-5K%2B-f093fb?style=for-the-badge&labelColor=0a0a0a&logo=star&logoColor=white" />
-  <img src="https://img.shields.io/badge/Contributions-15K%2B-4ECDC4?style=for-the-badge&labelColor=0a0a0a&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stars_Earned-10%2B-f093fb?style=for-the-badge&labelColor=0a0a0a&logo=star&logoColor=white" />
+  <img src="https://img.shields.io/badge/Contributions-700%2B-4ECDC4?style=for-the-badge&labelColor=0a0a0a&logo=github&logoColor=white" />
 </div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Languages-25%2B-FF6B6B?style=for-the-badge&labelColor=0a0a0a&logo=code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Repositories-200%2B-45B7D1?style=for-the-badge&labelColor=0a0a0a&logo=repo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Repositories-10%2B-45B7D1?style=for-the-badge&labelColor=0a0a0a&logo=repo&logoColor=white" />
   <img src="https://img.shields.io/badge/Code_Quality-A%2B-FFD93D?style=for-the-badge&labelColor=0a0a0a&logo=codeclimate&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streak-365%2B_Days-6BCF7F?style=for-the-badge&labelColor=0a0a0a&logo=fire&logoColor=white" />
 </div>
 
 ---
@@ -66,8 +65,8 @@
 ## 🏆 GitHub Trophies & Achievements
 
 <div align="center">
-  <img width="800" src="https://github-profile-trophy.vercel.app/?username=anuththara2007-w&theme=algolia&no-frame=true&no-bg=false&margin-w=4&margin-h=4&row=3&column=7" />
-</div>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)</div>
 
 ### 🎯 Trophy Unlocking Strategy
 
@@ -182,42 +181,6 @@
 
 ---
 
-## 🎯 Advanced Achievement Dashboard
-
-<div align="center">
-  
-### 💎 Elite Performance Metrics
-
-<!-- First Row - Productivity -->
-<img src="https://img.shields.io/badge/Daily_Commits-25%2B-00D9FF?style=for-the-badge&labelColor=0a0a0a&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Weekly_Contributions-175%2B-4ECDC4?style=for-the-badge&labelColor=0a0a0a&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Monthly_Commits-750%2B-FF6B6B?style=for-the-badge&labelColor=0a0a0a&logo=calendar&logoColor=white" />
-
-<br><br>
-
-<!-- Second Row - Code Quality -->
-<img src="https://img.shields.io/badge/Code_Reviews-500%2B-667eea?style=for-the-badge&labelColor=0a0a0a&logo=codereview&logoColor=white" />
-<img src="https://img.shields.io/badge/Pull_Requests-1000%2B-f093fb?style=for-the-badge&labelColor=0a0a0a&logo=pullrequest&logoColor=white" />
-<img src="https://img.shields.io/badge/Issues_Resolved-800%2B-6BCF7F?style=for-the-badge&labelColor=0a0a0a&logo=issue&logoColor=white" />
-
-<br><br>
-
-<!-- Third Row - Community Impact -->
-<img src="https://img.shields.io/badge/Open_Source_Contributions-500%2B-FFD93D?style=for-the-badge&labelColor=0a0a0a&logo=opensource&logoColor=white" />
-<img src="https://img.shields.io/badge/Developers_Mentored-200%2B-45B7D1?style=for-the-badge&labelColor=0a0a0a&logo=mentor&logoColor=white" />
-<img src="https://img.shields.io/badge/Community_Impact-High-FF9500?style=for-the-badge&labelColor=0a0a0a&logo=impact&logoColor=white" />
-
-<br><br>
-
-<!-- Fourth Row - Technical Excellence -->
-<img src="https://img.shields.io/badge/Languages_Mastered-25%2B-9B59B6?style=for-the-badge&labelColor=0a0a0a&logo=code&logoColor=white" />
-<img src="https://img.shields.io/badge/Frameworks_Expert-40%2B-E74C3C?style=for-the-badge&labelColor=0a0a0a&logo=framework&logoColor=white" />
-<img src="https://img.shields.io/badge/Certifications-15%2B-2ECC71?style=for-the-badge&labelColor=0a0a0a&logo=certificate&logoColor=white" />
-
-</div>
-
----
-
 ## 🏅 Certification & Recognition
 
 <div align="center">
@@ -244,23 +207,6 @@ TensorFlow Developer Certificate • Google Data Analytics Professional • IBM 
 
 <div align="center">
   
-### 🔥 Commit Intensity Strategy
-
-```
-🎯 EXTREME TROPHY UNLOCKING STRATEGY:
-
-📅 Daily Commits: 25+ commits per day across multiple repositories
-🚀 Repository Creation: New repos weekly to boost repository count
-⭐ Star Generation: Quality projects that attract organic stars
-👥 Community Engagement: Active in issues, PRs, and discussions
-🔀 Multi-language: Commits in 25+ programming languages
-📊 Consistent Activity: 365+ day streak maintained
-🌟 Open Source: Regular contributions to popular projects
-```
-
-</div>
-
----
 
 ## 🌐 Connect & Collaborate
 
@@ -333,18 +279,13 @@ TensorFlow Developer Certificate • Google Data Analytics Professional • IBM 
 <div align="center">
 
 **🏆 Coding Achievements:**
-- 🔥 Maintained 400+ day GitHub streak
+- 🔥 Maintained 50+ day GitHub streak
 - 💎 Contributed to 50+ open source projects
-- ⭐ Earned 5000+ GitHub stars across repositories
-- 🚀 Built applications serving 100K+ users
-- 🎯 Solved 1000+ coding challenges
+- ⭐ Earned 10+ GitHub stars across repositories
+- 🚀 Built applications serving 20 users
+- 🎯 Solved 500+ coding challenges
 
-**🌟 Impact Metrics:**
-- 📚 Mentored 200+ developers worldwide
-- 🎤 Spoke at 25+ tech conferences
-- 📝 Authored 100+ technical articles
-- 🏅 Won 15+ hackathons and coding competitions
-- 💼 Led development teams of 20+ engineers
+
 
 **⚡ Superhuman Abilities:**
 - Can debug production issues in sleep mode 😴
