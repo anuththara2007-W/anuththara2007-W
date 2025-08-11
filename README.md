@@ -18,18 +18,17 @@
 
 <br>
 
-<!-- Performance Metrics Grid -->
+<!-- Performance Metrics Grid - Accurate numbers explanation -->
 <div align="center">
-  <img src="https://img.shields.io/badge/Projects-20%2B-00D9FF?style=for-the-badge&labelColor=0a0a0a&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Daily_Commits-25%2B-667eea?style=for-the-badge&labelColor=0a0a0a&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Stars_Earned-10%2B-f093fb?style=for-the-badge&labelColor=0a0a0a&logo=star&logoColor=white" />
-  <img src="https://img.shields.io/badge/Contributions-700%2B-4ECDC4?style=for-the-badge&labelColor=0a0a0a&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Total_Contributions-391-4ECDC4?style=for-the-badge&labelColor=0a0a0a&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Commits_(Main_Branch)-21-FFD93D?style=for-the-badge&labelColor=0a0a0a&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Repositories-10%2B-45B7D1?style=for-the-badge&labelColor=0a0a0a&logo=repo&logoColor=white" />
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Languages-25%2B-FF6B6B?style=for-the-badge&labelColor=0a0a0a&logo=code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Repositories-10%2B-45B7D1?style=for-the-badge&labelColor=0a0a0a&logo=repo&logoColor=white" />
-  <img src="https://img.shields.io/badge/Code_Quality-A%2B-FFD93D?style=for-the-badge&labelColor=0a0a0a&logo=codeclimate&logoColor=white" />
+  <img src="https://img.shields.io/badge/Languages_Used-5%2B-FF6B6B?style=for-the-badge&labelColor=0a0a0a&logo=code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stars_Earned-4-f093fb?style=for-the-badge&labelColor=0a0a0a&logo=star&logoColor=white" />
+  <img src="https://img.shields.io/badge/Active_Streak-Growing-667eea?style=for-the-badge&labelColor=0a0a0a&logo=fire&logoColor=white" />
 </div>
 
 ---
@@ -59,7 +58,7 @@
 
 📫 **Contact:** **anuththara2007.official@gmail.com**
 
-⚡ **Achievement:** **Contributed to 50+ open source projects, mentored 200+ developers, and maintained a 400+ day coding streak! 🚀**
+⚡ **Achievement:** **Building my coding journey one commit at a time! 🚀**
 
 ---
 
@@ -67,19 +66,7 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)</div>
-
-### 🎯 Trophy Unlocking Strategy
-
-<div align="center">
-  
-**🔥 Daily Commit Trophies:** `Commit`, `SuperCommit`, `UltraCommit`  
-**⭐ Star Trophies:** `StarGazer`, `SuperStar`, `UltraStar`  
-**📚 Repository Trophies:** `Repositories`, `SuperRepositories`, `UltraRepositories`  
-**👥 Follower Trophies:** `Followers`, `SuperFollowers`, `UltraFollowers`  
-**📖 Pull Request Trophies:** `PullRequest`, `SuperPullRequest`, `UltraPullRequest`  
-**🔥 Issue Trophies:** `Issues`, `SuperIssues`, `UltraIssues`  
-**🌟 Special Trophies:** `MultiLanguage`, `LongTimeUser`, `AncientUser`
+[![trophy](https://github-profile-trophy.vercel.app/?username=anuththara2007-w&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -145,69 +132,121 @@
 <div align="center">
   
 <!-- Security Skills Grid -->
-<img src="https://img.shields.io/badge/🔒_Penetration_Testing-Expert-FF6B6B?style=for-the-badge&labelColor=0a0a0a" />
-<img src="https://img.shields.io/badge/🛡️_Network_Security-Advanced-4ECDC4?style=for-the-badge&labelColor=0a0a0a" />
-<img src="https://img.shields.io/badge/🔍_Digital_Forensics-Professional-45B7D1?style=for-the-badge&labelColor=0a0a0a" />
+<img src="https://img.shields.io/badge/🔒_Penetration_Testing-Learning-FF6B6B?style=for-the-badge&labelColor=0a0a0a" />
+<img src="https://img.shields.io/badge/🛡️_Network_Security-Intermediate-4ECDC4?style=for-the-badge&labelColor=0a0a0a" />
+<img src="https://img.shields.io/badge/🔍_Digital_Forensics-Beginner-45B7D1?style=for-the-badge&labelColor=0a0a0a" />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/⚡_Vulnerability_Assessment-Expert-FFD93D?style=for-the-badge&labelColor=0a0a0a" />
-<img src="https://img.shields.io/badge/🔐_Cryptography-Advanced-667eea?style=for-the-badge&labelColor=0a0a0a" />
-<img src="https://img.shields.io/badge/🌐_Web_Security-Expert-00D9FF?style=for-the-badge&labelColor=0a0a0a" />
+<img src="https://img.shields.io/badge/⚡_Vulnerability_Assessment-Learning-FFD93D?style=for-the-badge&labelColor=0a0a0a" />
+<img src="https://img.shields.io/badge/🔐_Cryptography-Intermediate-667eea?style=for-the-badge&labelColor=0a0a0a" />
+<img src="https://img.shields.io/badge/🌐_Web_Security-Learning-00D9FF?style=for-the-badge&labelColor=0a0a0a" />
+
+</div>
+
+---
+
+## 📊 GitHub Performance Metrics
+
+<!-- Explanation Section -->
+<div align="center">
+  <details>
+  <summary>📈 <strong>Understanding GitHub Stats</strong> (Click to expand)</summary>
+  <br>
+  
+  **🔍 Why Contributions ≠ Commits:**
+  - **391 Total Contributions** = Commits + PRs + Issues + Reviews + Repository creation
+  - **Private Repository Commits** = Included in contributions but may not show in public stats
+  - Enable "Include private contributions" in GitHub Settings → Profile for full visibility
+  
+  **📊 How to Increase Commit Count:**
+  - ✅ Push commits directly to main/master branch
+  - ✅ Enable private contributions visibility
+  - ✅ Ensure your Git email matches your GitHub email
+  - ✅ Commit to your own repositories consistently
+  
+  </details>
+</div>
+
+<br>
+
+<div align="center">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=anuththara2007-w&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&cache_seconds=300&v=3"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuththara2007-w&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&cache_seconds=300&v=3&include_all_commits=true&count_private=true"/>
+</div>
+
+<!-- Enhanced Streak Stats with Multiple Views -->
+<div align="center">
+  <img width="700" src="https://github-readme-streak-stats.herokuapp.com/?user=anuththara2007-w&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=8cc8ff&sideNums=58A6FF&currStreakNum=FF6B6B&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&v=3" />
+</div>
+
+<!-- Cool Activity Graph -->
+<div align="center">
+  <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=anuththara2007-w&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=58A6FF&custom_title=Anuththara's%20Contribution%20Graph&height=300&v=3" />
+</div>
+
+<!-- Additional Cool Metrics -->
+<div align="center">
+  
+### 🔥 Advanced Analytics
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anuththara2007-w&theme=tokyonight&hide_border=true" width="800"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/🔧_Security_Automation-Professional-6BCF7F?style=for-the-badge&labelColor=0a0a0a" />
-<img src="https://img.shields.io/badge/📊_Threat_Intelligence-Advanced-f093fb?style=for-the-badge&labelColor=0a0a0a" />
-<img src="https://img.shields.io/badge/🚨_Incident_Response-Expert-FF9500?style=for-the-badge&labelColor=0a0a0a" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anuththara2007-w&theme=tokyonight&hide_border=true" width="400"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anuththara2007-w&theme=tokyonight&hide_border=true" width="400"/>
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anuththara2007-w&theme=tokyonight&hide_border=true" width="400"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anuththara2007-w&theme=tokyonight&utc_offset=5.5&hide_border=true" width="400"/>
 
 </div>
 
----
-
-## 📊 Extreme Performance Metrics
-
-<div align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=anuththara2007-w&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuththara2007-w&layout=compact&langs_count=12&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
-</div>
-
-<div align="center">
-  <img width="700" src="https://github-readme-streak-stats.herokuapp.com/?user=anuththara2007-w&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9" />
-</div>
-
-<div align="center">
-  <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=anuththara2007-w&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=58A6FF" />
-</div>
-
----
-
-## 🏅 Certification & Recognition
-
+<!-- Animated Contribution Snake -->
 <div align="center">
   
-### 🎖️ Professional Certifications
-  
-**☁️ Cloud Certifications:**  
-AWS Solutions Architect Professional • Azure Solutions Architect Expert • GCP Professional Cloud Architect
+### 🐍 Contribution Snake Animation
 
-**🔐 Security Certifications:**  
-OSCP • CEH • CISSP • CompTIA Security+ • GSEC • GCIH
-
-**🚀 Development Certifications:**  
-Google Developer Expert • Microsoft MVP • Oracle Java Certified Professional
-
-**📊 Data Science:**  
-TensorFlow Developer Certificate • Google Data Analytics Professional • IBM Data Science Professional
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anuththara2007-w/anuththara2007-w/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anuththara2007-w/anuththara2007-w/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/anuththara2007-w/anuththara2007-w/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
----
+<!-- Cool Metrics Grid -->
+<div align="center">
 
-## 📈 Contribution Heatmap & Insights
+### ⚡ Real-Time Metrics
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=anuththara2007w&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&v=3" width="500"/>
+
+<br><br>
+
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&background=0D1117&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Building+the+future+with+code+%F0%9F%9A%80;391+Contributions+and+counting+%F0%9F%94%A5;Full+Stack+Developer+%7C+Cybersecurity+Expert+%F0%9F%9B%A1%EF%B8%8F" />
+
+</div>
+
+<!-- Force refresh trick - Alternative stats URLs -->
+<details>
+<summary>📈 Alternative Stats View (Click to expand)</summary>
+<br>
 
 <div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=anuththara2007-w&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
   
+  <br><br>
+  
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=anuththara2007-w&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
+</div>
+
+</details>
+
+---
 
 ## 🌐 Connect & Collaborate
 
@@ -259,41 +298,39 @@ TensorFlow Developer Certificate • Google Data Analytics Professional • IBM 
 <div align="center">
 
 ```
-🎯 "Excellence is not a skill, it's an attitude"
+🎯 "Every expert was once a beginner"
 
-🚀 Pushing the boundaries of what's possible with technology
-🔒 Security-first approach in every line of code
-🌍 Building solutions that create global impact
-🤖 Leveraging AI to augment human potential
-💡 Continuous learning and knowledge sharing
-🎨 Crafting user experiences that delight and inspire
-⚡ Optimizing for performance, scalability, and maintainability
-🔧 Contributing to open source and community growth
+🚀 Learning and growing with every line of code
+🔒 Building secure and reliable solutions
+🌍 Contributing to meaningful projects
+🤖 Exploring the frontiers of technology
+💡 Continuous learning and improvement
+🎨 Creating user-friendly experiences
+⚡ Writing clean, maintainable code
+🔧 Sharing knowledge with the community
 ```
 
 </div>
 
 ---
 
-## 🎲 Fun Facts & Achievements
+## 🎲 Current Journey
 
 <div align="center">
 
-**🏆 Coding Achievements:**
-- 🔥 Maintained 50+ day GitHub streak
-- 💎 Contributed to 50+ open source projects
-- ⭐ Earned 10+ GitHub stars across repositories
-- 🚀 Built applications serving 20 users
-- 🎯 Solved 500+ coding challenges
+**🏆 My Achievements So Far:**
+- 🔥 Building consistent coding habits
+- 💎 Learning multiple programming languages
+- ⭐ Earned 4 GitHub stars
+- 🚀 Growing my development skills daily
+- 🎯 Committed to continuous improvement
 
-
-
-**⚡ Superhuman Abilities:**
-- Can debug production issues in sleep mode 😴
-- Writes bug-free code 99.8% of the time 🐛
-- Fixes bugs that accidentally fix other bugs 🦋
-- Can read minified JavaScript like poetry 📜
-- Dreams in multiple programming languages 💭
+**⚡ What I'm Working On:**
+- 📚 Expanding my knowledge in cybersecurity
+- 🌱 Building projects in different technologies
+- 🤝 Contributing to open source when possible
+- 📖 Learning best practices and design patterns
+- 🎨 Improving my UI/UX design skills
 
 </div>
 
@@ -306,8 +343,8 @@ TensorFlow Developer Certificate • Google Data Analytics Professional • IBM 
 ---
 
 <div align="center">
-  <h2>🌟 Thanks for Visiting My Digital Universe! 🌟</h2>
-  <p><em>"Code is poetry, bugs are typos, and debugging is editing"</em> ✨</p>
+  <h2>🌟 Thanks for Visiting My Profile! 🌟</h2>
+  <p><em>"The journey of a thousand commits begins with a single push"</em> ✨</p>
   
   <img src="https://img.shields.io/badge/Made_with-❤️_💻_and_☕-FF6B6B?style=for-the-badge&labelColor=0a0a0a&logoColor=white" />
   
