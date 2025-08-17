@@ -227,7 +227,7 @@
 <br><br>
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&background=0D1117&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Building+the+future+with+code+%F0%9F%9A%80;391+Contributions+and+counting+%F0%9F%94%A5;Full+Stack+Developer+%7C+Cybersecurity+Expert+%F0%9F%9B%A1%EF%B8%8F" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&background=0D1117&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Building+the+future+with+code+%F0%9F%9A%80;1K+Contributions+and+counting+%F0%9F%94%A5;Full+Stack+Developer+%7C+Cybersecurity+Expert+%F0%9F%9B%A1%EF%B8%8F" />
 
 </div>
 
