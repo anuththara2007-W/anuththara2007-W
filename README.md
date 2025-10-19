@@ -1,7 +1,7 @@
 # <div align="center">Hi 👋, I'm Anuththara Wickramasekara</div>
 
 <div align="center">
-  <h2>🚀  Full Stack Developer | 🛡️ Cybersecurity Beginner | 🎨 UI/UX Design Maestro | 🤖 AI/ML Learner</h2>
+  <h2>🚀  Full Stack Developer | 🛡️ Cybersecurity Beginner | 🎨 UI/UX Designer | 🤖 AI/ML Learner</h2>
 </div>
 
 <div align="center">
